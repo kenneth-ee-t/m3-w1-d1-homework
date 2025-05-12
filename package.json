@@ -1,0 +1,19 @@
+{
+  "name": "homework-app",
+  "version": "1.0.0",
+  "description": "homework 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenneth-ee-t/m3-w1-d1-homework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenneth-ee-t/m3-w1-d1-homework/issues"
+  },
+  "homepage": "https://github.com/kenneth-ee-t/m3-w1-d1-homework#readme"
+}
